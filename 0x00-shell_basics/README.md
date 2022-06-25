@@ -1,2 +1,2 @@
 #!bin/bash
-creating a script that prints current directory
+Display the contents list of your current directory.
