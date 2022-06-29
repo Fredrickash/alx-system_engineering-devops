@@ -1,2 +1,2 @@
 #!/bin/bash
-Display all lines of the file starting with a letter.
+Create a script that removes all letters c and C from input.
