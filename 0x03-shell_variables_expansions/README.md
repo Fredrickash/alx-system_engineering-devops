@@ -1,2 +1,2 @@
-#!/bin/bas
-Write a script that displays the result of BREATH to the power LOVE
+#!/bin/bash
+ script that converts a number from base 2 to base 10.
