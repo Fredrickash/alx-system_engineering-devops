@@ -1,2 +1,2 @@
 #!/bin/bash
-Move the file
+Delete the file
