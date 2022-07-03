@@ -1,2 +1,2 @@
 #!/bin/bash
-create a symbolic link
+Create a symbolic link 
